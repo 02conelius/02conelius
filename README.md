@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @02conelius
+- 👀 I’m interested in video and audio programming
+- 🌱 I’m currently learning c++
+- 💞️ I’m looking to collaborate on ...
+- 📫 How to reach me cone;ius02gmail.com
